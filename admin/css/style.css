@@ -1,0 +1,27 @@
+.item-div
+{
+	height: auto;
+	
+	margin-top: 100px;
+}
+
+.table-div table
+{
+   width: 100%;
+   border:1px solid green;
+   
+}
+.table-div table td
+{
+	width: 33%;
+	border:1px solid green;
+	text-align: center;
+	height: 30px;
+}
+.table-div table th
+{
+	width: 33%;
+	border:1px solid green;
+	text-align: center;
+	height: 30px;
+}

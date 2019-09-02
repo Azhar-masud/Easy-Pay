@@ -1,0 +1,34 @@
+
+*
+{
+    margin: 0px auto;
+    padding: 0px;
+}
+body
+{
+    background-color: #F2F2F2;
+}
+.sign-up-data
+{
+    margin-bottom: 50px;
+}
+.sign-up-data h1
+{
+    text-align: center;
+    color: green;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sign-up-data input
+{
+    border-radius: 10px;
+}
+.sign-up-data select
+{
+    border-radius: 10px;
+}
+.sign-up-data textarea
+{
+    border-radius: 25px;
+}
